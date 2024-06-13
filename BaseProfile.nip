@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-16"?>
 <ArrayOfProfile>
   <Profile>
     <ProfileName>Base Profile</ProfileName>
@@ -47,6 +47,18 @@
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
+        <SettingNameInfo>Watermarking Indicator</SettingNameInfo>
+        <SettingID>3672192</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Watermarking Traceability</SettingNameInfo>
+        <SettingID>3737728</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
         <SettingNameInfo>Texture filtering - Driver Controlled LOD Bias</SettingNameInfo>
         <SettingID>6524559</SettingID>
         <SettingValue>0</SettingValue>
@@ -61,7 +73,7 @@
       <ProfileSetting>
         <SettingNameInfo>Texture filtering - LOD Bias</SettingNameInfo>
         <SettingID>7573135</SettingID>
-        <SettingValue>4</SettingValue>
+        <SettingValue>3</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -253,7 +265,7 @@
       <ProfileSetting>
         <SettingNameInfo>Enable G-SYNC globally</SettingNameInfo>
         <SettingID>294973784</SettingID>
-        <SettingValue>1</SettingValue>
+        <SettingValue>0</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -265,7 +277,7 @@
       <ProfileSetting>
         <SettingNameInfo />
         <SettingID>541081465</SettingID>
-        <SettingValue>8</SettingValue>
+        <SettingValue>6</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
