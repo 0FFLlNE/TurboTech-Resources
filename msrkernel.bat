@@ -1,4 +1,3 @@
 @echo off
 cd C:\Program Files (x86)\RW-Everything
 Rw.exe /Min /Command="WRMSR 0x638 0x0 0x00000000; WRMSR 0x640 0x0 0x00000000; WRMSR 0x618 0x0 0x00000000"
-pause
